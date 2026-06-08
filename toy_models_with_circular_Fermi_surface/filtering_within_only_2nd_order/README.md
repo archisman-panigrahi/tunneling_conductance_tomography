@@ -1,0 +1,2 @@
+The jupyter notebooks (a) `d+id_Fourier_filtering.ipynb` and (b) `d_wave_cuprate_Fourier_filtering.ipynb` contain codes to highlight the nodal beams via Fourier filtering, for (a) $d+id$ topological superconductor involving a phase winding and (b) $d_{x^2 - y^2}$ superconductor involving nodes in the gap function.
+This code is utilized in Fig. 3 in the supplementary information.
